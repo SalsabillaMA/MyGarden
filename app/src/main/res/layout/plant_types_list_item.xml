@@ -40,13 +40,6 @@
         android:layout_marginBottom="8dp"
         tools:src="@drawable/vine_3" />
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical"
-        android:layout_margin="8dp"
-        android:src="@drawable/add_accent" />
-
     <TextView
         android:id="@+id/plant_type_text"
         android:layout_width="0dp"
@@ -56,5 +49,12 @@
         android:textSize="16sp"
         android:textStyle="bold"
         tools:text="Vine" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="8dp"
+        android:src="@drawable/add_accent" />
 
 </LinearLayout>
