@@ -42,17 +42,17 @@ button air di tengah digunakan untuk menyiram tanaman sedangkan button gunting u
 
 "Since planted" merupakan umur dari tanaman sedangkan "Since watered" merupakan waktu penyiraman
 
-- Detail tanaman setelah disiram
-
-![alt text](MyGardenPicture/11.png)![alt text](MyGardenPicture/15.png)
-
-jika tanaman membutuhkan air widget akan berubah seperti berikut
+- jika tanaman membutuhkan air widget akan berubah seperti berikut
 
 ![alt text](MyGardenPicture/2.png)
 
-jika tanaman lama tidak disiram maka tanaman bisa layu seperti gambar diatas
+- jika tanaman lama tidak disiram maka tanaman bisa layu seperti gambar berikut
 
 ![alt text](MyGardenPicture/4.png)
+
+- Detail tanaman setelah disiram
+
+![alt text](MyGardenPicture/11.png)![alt text](MyGardenPicture/15.png)
 
 jika tanaman telah disiram maka waktu penyiraman berubah menjadi 0
 
