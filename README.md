@@ -38,7 +38,7 @@ jika telah menambahkan tanaman maka tampilan widget akan berubah seperti berikut
 
 ![alt text](MyGardenPicture/10.png)![alt text](MyGardenPicture/14.png)
 
-button air di tengah digunakan untuk menyiram tanaman sedangkan button gunting untuk memotong/membuang tanaman
+Button air di tengah digunakan untuk menyiram tanaman sedangkan button gunting(cut) untuk memotong/membuang tanaman
 
 "Since planted" merupakan umur dari tanaman sedangkan "Since watered" merupakan waktu penyiraman
 
@@ -66,7 +66,9 @@ diatas terdapat gambar versi landscape dan potrait
  
  - [the-background-background-design](https://pixabay.com/vectors/the-background-background-design-352165/)
  
+# Teimakasih:)
 
-
+# Salsabilla Maurettasya A
+# 39/XI RPL 3
 
 
