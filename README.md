@@ -20,15 +20,15 @@ Tampilan widget saat belum ada tanaman yang ditambahkan
 
 ![alt text](MyGardenPicture/7.png) ![alt text](MyGardenPicture/6.png)
 
-- Mulai masuk App dan menanam tanaman
-
-![alt text](MyGardenPicture/8.png)![alt text](MyGardenPicture/12.png)
-
-- Memilih jenis tanaman
+- Mulai masuk app dan memilih jenis tanaman
 
 terdapat button + untuk menambahkan tanaman
 
 ![alt text](MyGardenPicture/9.png)![alt text](MyGardenPicture/13.png)
+
+- tampilan tanaman yang telah ditanam
+
+![alt text](MyGardenPicture/8.png)![alt text](MyGardenPicture/12.png)
 
 jika telah menambahkan tanaman maka tampilan widget akan berubah seperti berikut :
 
