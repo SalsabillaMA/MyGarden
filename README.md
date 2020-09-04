@@ -32,7 +32,7 @@ terdapat button + untuk menambahkan tanaman
 
 jika telah menambahkan tanaman maka tampilan widget akan berubah seperti berikut :
 
-![alt text](MyGardenPicture/3.png)![alt text](MyGardenPicture/5.png)
+![alt text](MyGardenPicture/5.png)![alt text](MyGardenPicture/3.png)
 
 - Detail tanaman sebelum disiram
 
